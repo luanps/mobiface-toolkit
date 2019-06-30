@@ -1,5 +1,7 @@
 # MobiFace Python Toolkit
 
+This repository was forked from [MobiFace](https://mobiface.github.io/)
+
 ## Table of Contents
 
 * [Installation](#installation)
